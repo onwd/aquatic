@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/onwd/aquatic#readme",
   "dependencies": {
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/jest": "^26.0.20",
